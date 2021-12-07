@@ -1,1 +1,3 @@
 # ikt
+
+összekapcsolás
